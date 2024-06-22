@@ -8,7 +8,6 @@ void replace(char* str) {
 		}
 	}
 }
-
 int main() {
 	char str[] = "Hello my friend im Jhon!";
 	replace(str);
